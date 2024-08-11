@@ -1,0 +1,14 @@
+{
+  "name": "nob",
+  "version": "1.0.0",
+  "description": "This is a node package of this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node HelloWorld/hello.js ",
+    "main":"node HelloWorld/index.js",
+    "file": "node Jsmodules/File.js"
+  },
+  "author": "Ayanabha",
+  "license": "ISC"
+}
